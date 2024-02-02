@@ -1,4 +1,4 @@
-# 1 Introduction
+# Project Goal
 
 <p>The purpose of this project is to create a highly accurate machine learning model that Stack Overflow may utilize to automate the process of single-tagging user-generated articles. These tags facilitate efficient information retrieval and contribute significantly to the platform’s usability, allowing users to filter and access content pertinent to their interests and expertise levels. Our approach is designed to anticipate these tags by assessing the content and structure of the text.</p>
 
