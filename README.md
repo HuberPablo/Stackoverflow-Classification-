@@ -16,7 +16,7 @@ $$
 associated with each post, providing a simple way to assess the prediction effectiveness of our
 model.</p>
 
-- To Watch the [Code File](https://github.com/HuberPablo/Stackoverflow-Classification-/blob/main/WAH-Wieland_Alija_Huber.pdf)
+- [Python code](https://github.com/HuberPablo/Stackoverflow-Classification-/blob/main/WAH-Wieland_Alija_Huber.ipynb)
   
-- To wathc the [report](https://github.com/HuberPablo/Stackoverflow-Classification-/blob/main/WAH-Wieland_Alija_Huber.pdf)
+- [Report](https://github.com/HuberPablo/Stackoverflow-Classification-/blob/main/WAH-Wieland_Alija_Huber.pdf)
 
