@@ -15,3 +15,8 @@ $$
 <p>This statistic measures the frequency with which the model correctly recognizes the tags
 associated with each post, providing a simple way to assess the prediction effectiveness of our
 model.</p>
+
+<p> 
+  - To Watch the code open the python file,
+  - To wathc the report open the pdf file
+</p>
